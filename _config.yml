@@ -1,10 +1,10 @@
 # Site
-name: "Datacrafts"
-title: "Datacrafts"
+name: "Data Crafts"
+title: "Data Crafts"
 description: "Welcome to Data Crafts' blog."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
+baseurl: '/'
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
@@ -18,7 +18,7 @@ authors:
     display_name: Abdelkrim
     gravatar: 22d66e5933a43f7422aff47bd2ef84e2
     email: abdelkrim.hadjidj@gmail.com
-    web: https://www.datacrafts.fr/
+    web: https://www.datacrafts.fr/about
     twitter: https://twitter.com/ahadjidj
     description: "Data Streaming Specialist at Cloudera | Mentor | Speaker | Teacher | I write about distributed systems, solution engineering and craftmanship "
   
