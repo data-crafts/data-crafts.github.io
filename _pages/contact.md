@@ -2,7 +2,7 @@
 layout: page
 title: Thanks for reaching out
 permalink: /contact
-comments: flase
+comments: false
 ---
 
 <div class="row justify-content-between">
