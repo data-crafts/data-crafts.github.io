@@ -2,7 +2,7 @@
 layout: page
 title: Craftsmanship as a Path to excellence
 permalink: /about
-comments: flase
+comments: false
 ---
 
 <div class="row justify-content-between">
