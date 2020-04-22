@@ -30,9 +30,10 @@ comments: false
   <button type="submit">Send</button>
 </form>
 
+</div>
+</div>
 
-
-<form id="contactForm" action="https://formspree.io/{{site.email}}" method="post" novalidate>
+<form id="contactForm" action="https://formspree.io/mlewqezr" method="post" novalidate>
   <div class="form__input half">
     <label for="name">Name</label>
     <input type="text" name="name" id="name" autocomplete="name" required>
@@ -53,6 +54,3 @@ comments: false
   <input class="hidden" type="text" name="_gotcha">
   <button class="btn js-submit" type="submit" value="Send">Send</button>
 </form>
-
-</div>
-</div>
