@@ -5,7 +5,7 @@ description: "Welcome to Data Crafts' blog."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
-google_analytics: ''
+google_analytics: 'UA-165129888-1'
 disqus: ''
 # mailchimp-list: ''
 include: ["_pages"]
