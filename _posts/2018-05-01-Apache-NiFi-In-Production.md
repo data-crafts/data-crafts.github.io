@@ -6,6 +6,7 @@ categories: [Streaming, Use case, NiFi, Talk]
 image: assets/images/2-1.jpg
 description: "Best practices for running Apache NiFi in production: 3 takeaways from real world projects"
 toc: true
+comments: true
 ---
 DataWorks Summit (DWS) is the industry’s Premier Big Data Community Event in Europe and the US. The last DWS was in Berlin, Germany, on April 18th and 19th. This was the 6th year occurence in Europe and this year there was over 1200 attendees from 51 different countries, 77 breakouts in 8 tracks, 8 Birds-of-a-Feather sessions and 7 meetups. I had the opportunity to attend as a speaker this year, where I gave a talk on “Best practices and lessons learnt from Running Apache NiFi”. It was a joint talk with the Big Data squad team from Renault, a French car manufacturer. The presentation recording is available on youtube. In this blog, I’ll share with you the 3 key takeaways from our talk.
 
