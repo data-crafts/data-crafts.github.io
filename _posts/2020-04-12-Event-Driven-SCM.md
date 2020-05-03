@@ -7,7 +7,6 @@ image: assets/images/1-1.jpg
 description: "How Open Source Streaming technologies can help improve supply chain during Covid-19"
 featured: true
 hidden: true
-comments: false
 toc: true
 ---
 Technology is helping the world survive through the sanitary, economical and societal crisis that the Covid19 virus has caused. AI helps scientists understand the virus to find a cure/vaccine. Mobile apps keep families and friends connected from afar. IoT is used to manage the virus spread through Bluetooth peer-to-peer interactions. More examples of how technology is helping are laid out in many blog posts. In this blog post, I focus on how Streaming technology can help supply chains during the crisis.
