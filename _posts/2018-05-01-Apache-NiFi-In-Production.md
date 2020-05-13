@@ -7,6 +7,8 @@ image: assets/images/2-1.jpg
 description: "Best practices for running Apache NiFi in production: 3 takeaways from real world projects"
 toc: true
 comments: true
+featured: true
+hidden: true
 ---
 DataWorks Summit (DWS) is the industry’s Premier Big Data Community Event in Europe and the US. The last DWS was in Berlin, Germany, on April 18th and 19th. This was the 6th year occurence in Europe and this year there was over 1200 attendees from 51 different countries, 77 breakouts in 8 tracks, 8 Birds-of-a-Feather sessions and 7 meetups. I had the opportunity to attend as a speaker this year, where I gave a talk on “Best practices and lessons learnt from Running Apache NiFi”. It was a joint talk with the Big Data squad team from Renault, a French car manufacturer. The presentation recording is available on youtube. In this blog, I’ll share with you the 3 key takeaways from our talk.
 
@@ -42,7 +44,3 @@ From this main consideration, you can derive several best practices. Some of the
 NiFi is a powerful tool that gives you business and technical agility. To master its power, it is important to define and to enforce best practices. Lots of these best practices can be borrowed directly from software engineering. Others are specific to NiFi. The recording from our Dataworks Summit is available an give more details on these best practices. If this article got you excited and you want to give NiFi a try, read the following tutorial to build an IIoT prototype with NiFi, MQTT and Raspberry Pi in less than one hour.
 
 <iframe width="900" height="630" src="https://www.youtube.com/embed/rF7FV8cCYIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-  
-  
