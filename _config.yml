@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: 'UA-165129888-1'
 disqus: 'datacrafts'
-# mailchimp-list: ''
+mailchimp-list: 'https://datacrafts.us18.list-manage.com/subscribe/post?u=4786eb0fe148c01cb24c3c686&amp;id=aa545cb924'
 include: ["_pages"]
 permalink: /:title/
 
