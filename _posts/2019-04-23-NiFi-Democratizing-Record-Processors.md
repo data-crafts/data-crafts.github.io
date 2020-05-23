@@ -2,7 +2,7 @@
 layout: post
 title:  "Democratizing NiFi Record Processors with automatic schemas inference"
 author: abdelkrim
-categories: [NiFi, best practices]
+categories: [NiFi, Best Practices]
 image: assets/images/5-1.jpg
 description: "Democratizing NiFi Record Processors with automatic schemas inference"
 toc: true

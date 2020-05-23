@@ -2,7 +2,7 @@
 layout: post
 title:  "Best practices for running Apache NiFi in production: 3 takeaways from real world projects"
 author: abdelkrim
-categories: [Streaming, Use case, NiFi, Talk]
+categories: [Streaming, Best Practices, Use case, NiFi, Talk]
 image: assets/images/2-1.jpg
 description: "Best practices for running Apache NiFi in production: 3 takeaways from real world projects"
 toc: true
