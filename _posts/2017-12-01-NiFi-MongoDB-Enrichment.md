@@ -241,5 +241,4 @@ Data enrichment is a common use case for ingestion and flow processing. With Loo
 Thanks for reading me. As always, feedback and suggestions are welcome.
 
 ---
-Post photo designed by [Andrik Langfield](https://unsplash.com/@andriklangfield) on [Unsplash](https://unsplash.com/)
-
+Post photo designed by [Álvaro Bernal](https://unsplash.com/@abn) on [Unsplash](https://unsplash.com/)
