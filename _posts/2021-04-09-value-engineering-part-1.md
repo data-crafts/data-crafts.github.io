@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "6 reasons why every Presales should do Value Engineering: part 1"
+title:  "6 reasons why Presales need to do Value Engineering (Part 1)"
 author: abdelkrim
 categories: [ Value Engineering, Presales, Management, Process ]
 image: assets/images/8-1.jpg
-description: "6 reasons why every Presales should do Value Engineering"
+description: "6 reasons why Presales need to do Value Engineering (Part 1)"
 featured: true
 hidden: true
 toc: true
