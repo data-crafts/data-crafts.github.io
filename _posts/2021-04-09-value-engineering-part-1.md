@@ -3,7 +3,7 @@ layout: post
 title:  "6 reasons why every Presales should do Value Engineering: part 1"
 author: abdelkrim
 categories: [ Value Engineering, Presales, Management, Process ]
-image: assets/images/1-1.jpg
+image: assets/images/8-1.jpg
 description: "6 reasons why every Presales should do Value Engineering"
 featured: true
 hidden: true
@@ -57,3 +57,8 @@ With the emergence of SaaS first products, retention rate becomes a critical asp
 
 ## What’s next?
 I’ll stop here and let you ponder on the value of value engineering :) I hope that these 6 reasons get you excited and you want to learn more. In the next blog, I’ll share with you concrete examples of value studies as well the best practices that I’ve seen working in the field. In the meanwhile, stay safe and keep selling.
+
+Thanks for reading me. As always, feedback and suggestions are welcome.
+
+---
+Post photo designed by [Long Truong](https://unsplash.com/@frostbud) on [Unsplash](https://unsplash.com/)  
