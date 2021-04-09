@@ -9,9 +9,9 @@ comments: false
 <div class="col-md-10 pr-5">
 
 <p>
-Abdelkrim Hadjidj is a Senior Solutions Engineer at Grafana Labs with over a decade of experience on distributed and data intensive systems. He helps customers in EMEA defining their observability strategy with Grafana Labs producs to reduce MTTR, lower costs and improve customers experience. He is an Open Source advocate and works with OSS technologies such as Grafana, Prometheus, Loki and Tempo. <br/><br/>
+Abdelkrim Hadjidj is a Senior Solutions Engineer at Grafana Labs with over a decade of experience on distributed and data intensive systems. He helps customers in EMEA define their observability strategy with Grafana Labs producs to reduce MTTR, lower costs and improve customers experience. He is an Open Source advocate and works with OSS technologies such as Grafana, Prometheus, Loki and Tempo. <br/><br/>
   
-He is also pationate about management techniques and how to reveal the best in people. He advocates craftmanship as a path to success and excellence in the digital and the physical jobs. <br/><br/>
+He is also pationate about management techniques and how to reveal the best in people. He advocates for craftmanship as a path to success and excellence in the digital and the physical jobs. <br/><br/>
 
 Previously, Abdelkrim held several positions including Senior Solutions Engineer at Hortonworks, Cloudera and Imply, Big Data Lead at Atos and CTO at Artheamis. In the course of those roles, he designed and built several scalable data-intensive platforms for customers in Financial Services, Manufacuturing, Retail and Transportation. These platforms are the foundation of digital transformation and enabled use cases such as customer 360°, predictive maintenance and real-time analytics. <br/><br/>
 
