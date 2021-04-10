@@ -41,7 +41,7 @@ Over the years, Value Engineering helped me in several ways that I resume in the
 
 VE is very powerful in getting the executive sponsorship that you need to win a deal. I found it a key differentiator in the eyes of my customer when they compare us to the competition. It gives your champion the best tool to advocate for your solution.
 
-### Expend the deal size
+### Expand the deal size
 
 I have often seen Account Managers commit a small number for a deal at the beginning of the quarter to reduce the risk of missing their forecast or because of the lack of qualification and confidence. Unfortunately, this initial number shapes the spirit of the deal and ends-up the target that everyone works to achieve. By doing the VE analysis, I have realized that we are bringing tens of millions of cost reduction or new revenue to some customers. This helped the sales team be confident in our solution and go ask for millions instead of tens or hundred thousands dollar deals. 
 
