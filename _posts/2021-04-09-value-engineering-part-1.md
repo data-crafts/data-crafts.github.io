@@ -56,7 +56,7 @@ In the last 6 years, I have been selling Big Data platforms. These are powerful 
 
 This is not a generic benefit, but it was so much important for me. When you sell 100% Open Source Software, you are mainly selling something that everyone can get for free. It’s like selling fish in the sea. VE helps you quantify the value that the customer will get from using your enterprise feature and support compared to DIY. 
 
-### Protect your renewal or increase consumption
+### Protect the renewal and increase the consumption
 
 With the emergence of SaaS first products, retention rate becomes a critical aspect for every sales organization. Every year (month?) becomes an election year. Even if your solution works, you can be sure that your customer is evaluating the benefit of renewal vs going with your competitors. They are also evaluating several scenarios where they can increase or decrease the consumption of your solution. VE gives the tools to do value realization assessment and show to your customer how much value you are bringing to the table. It pushes the customer to think out of the box and take into consideration value drivers that they didn’t consider. At the end of the day, this is the best strategy to guarantee your renewal and increase the consumption. 
 
