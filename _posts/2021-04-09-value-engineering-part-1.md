@@ -46,7 +46,7 @@ VE is very powerful in getting the executive sponsorship that you need to win a 
 I have often seen Account Managers commit a small number for a deal at the beginning of the quarter to reduce the risk of missing their forecast or because of the lack of qualification and confidence. Unfortunately, this initial number shapes the spirit of the deal and ends-up the target that everyone works to achieve. By doing the VE analysis, I have realized that we are bringing tens of millions of cost reduction or new revenue to some customers. This helped the sales team be confident in our solution and go ask for millions instead of tens or hundred thousands dollar deals. 
 
 ### Accelerate the sales cycle
-this one is counter intuitive. Lot of people think that doing a VE will add sales cycles but it actually avoids the customer spending several weeks of self-assessment, benchmarking or building a business case. In my experience, my customers were grateful that we helped them build their business case and they happily helped us accelerate the closing.
+This one is counter intuitive. Lot of people think that doing a VE exercise will add sales cycles but it actually avoids the customer spending several weeks of self-assessment, benchmarking or building a business case. In my experience, my customers were grateful that we helped them build their business case and they happily helped us accelerate the closing.
 
 ### Earn the right to talk to the Business or execs
 
@@ -58,7 +58,7 @@ This is not a generic benefit, but it was so much important for me. When you sel
 
 ### Protect the renewal and increase the consumption
 
-With the emergence of SaaS first products, retention rate becomes a critical aspect for every sales organization. Every year (month?) becomes an election year. Even if your solution works, you can be sure that your customer is evaluating the benefit of renewal vs going with your competitors. They are also evaluating several scenarios where they can increase or decrease the consumption of your solution. VE gives the tools to do value realization assessment and show to your customer how much value you are bringing to the table. It pushes the customer to think out of the box and take into consideration value drivers that they didn’t consider. At the end of the day, this is the best strategy to guarantee your renewal and increase the consumption. 
+With the emergence of SaaS first products, retention rate becomes a critical KPI for every sales organization. Every year (month?) becomes an election year. Even if your solution works, you can be sure that your customer is evaluating the benefit of renewal vs going with your competitors. They are also evaluating several scenarios where they can increase or decrease the consumption of your solution. VE gives the tools to do value realization assessment and show to your customer how much value you are bringing to the table. At the end of the day, this is the best strategy to guarantee your renewal and increase the consumption. 
 
 ## What’s next?
 
