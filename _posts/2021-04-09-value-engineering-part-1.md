@@ -39,7 +39,7 @@ Over the years, Value Engineering helped me in several ways that I resume in the
 
 ### Increase the win rate
 
-VE is very powerful in getting the executive sponsorship that you need to win a deal. I found it a key differentiator in the eyes of my customer when they compare us to the competition. It gives your champion the best tool to advocate for your solution.
+VE is very powerful in getting the executive sponsorship that you need to win a deal. I found it a key differentiator in the eyes of my customers when they compare us to the competition. It gives your champion the best tool to advocate for your solution.
 
 ### Expand the deal size
 
@@ -50,11 +50,11 @@ This one is counter intuitive. Lot of people think that doing a VE exercise will
 
 ### Earn the right to talk to the Business or execs
 
-In the last 6 years, I have been selling Big Data platforms. These are powerful but complex distributed systems that are used underneath business applications. Customers automatically put us in front of IT and data architects and it is challenging to get to the business people. By positioning VE workshops, we succeeded shifting the focus from technical discussions to business value discussions and we were introduced to the final users and stakeholders. This often changes the dynamic of the deal and opens many doors for future deals. 
+In the last 6 years, I have been selling Big Data platforms. These are powerful but complex distributed systems that are used underneath business applications. Customers automatically put us in front of IT and data architects and it is challenging to get to the business people. By positioning VE workshops, we succeeded in shifting the focus from technical discussions to business value discussions and we were introduced to the final users and stakeholders. This often changes the dynamic of the deal and opens many doors for future deals. 
 
 ### Enterprise vs Open Source
 
-This is not a generic benefit, but it was so much important for me. When you sell 100% Open Source Software, you are mainly selling something that everyone can get for free. It’s like selling fish in the sea. VE helps you quantify the value that the customer will get from using your enterprise feature and support compared to DIY. 
+This is not a generic benefit, but it was key for me. When you sell 100% Open Source Software, you are mainly selling something that everyone can get for free. It’s like selling fish in the sea. VE helps you quantify the value that the customer will get from using your enterprise feature and support compared to DIY. 
 
 ### Protect the renewal and increase the consumption
 
