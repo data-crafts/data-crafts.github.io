@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Abdelkrim Hadjidj - Senior Solutions Engineer
+title: Abdelkrim Hadjidj - Solutions Engineering Manager
 permalink: /about
 comments: false
 ---
@@ -9,13 +9,11 @@ comments: false
 <div class="col-md-10 pr-5">
 
 <p>
-Abdelkrim Hadjidj is a Senior Solutions Engineer at Grafana Labs with over a decade of experience on distributed and data intensive systems. He helps customers in EMEA define their observability strategy with Grafana Labs producs to reduce MTTR, lower costs and improve customers experience. He is an Open Source advocate and works with OSS technologies such as Grafana, Prometheus, Loki and Tempo. <br/><br/>
+Abdelkrim Hadjidj is a Solutions Engineering Manager at Grafana Labs with over a decade of experience on distributed and data intensive systems. He helps customers in EMEA define their observability strategy with Grafana Labs producs to reduce MTTR, lower costs and improve customers experience. He is an Open Source advocate and works with OSS technologies such as Grafana, Prometheus, Loki and Tempo. <br/><br/>
   
 He is also pationate about management techniques and how to reveal the best in people. He advocates for craftmanship as a path to success and excellence in the digital and the physical jobs. <br/><br/>
 
-Previously, Abdelkrim held several positions including Senior Solutions Engineer at Hortonworks, Cloudera and Imply, Big Data Lead at Atos and CTO at Artheamis. In the course of those roles, he designed and built several scalable data-intensive platforms for customers in Financial Services, Manufacuturing, Retail and Transportation. These platforms are the foundation of digital transformation and enabled use cases such as customer 360°, predictive maintenance and real-time analytics. <br/><br/>
-
-Abdelkrim holds a PhD, MSc, and MSe degrees in computer science. He published several scientific papers at well-known IEEE and ACM journals. You can find him talking at Meetups or worldwide tech conferences such as DataWorks Summit, Strata or Flink Forward. He founded and runs the <a href="https://www.meetup.com/fr-FR/futureofdata-paris/">Future Of Data Meetup</a> in Paris which is a group of 2300+ data and tech enthusiasts. <br/><br/>
+Previously, Abdelkrim held several Solutions Engineer positions at Grafana Labs, Hortonworks, Cloudera and Imply. Before that, he was a Big Data Lead at Atos and CTO at Artheamis. In the course of those roles, he designed and built several scalable data-intensive platforms for customers in Financial Services, Manufacuturing, Retail and Transportation. These platforms are the foundation of digital transformation and enabled use cases such as customer 360°, predictive maintenance and real-time analytics. <br/><br/>
 
 Opinions expressed are solely my own and do not express the views or opinions of my employer.<br/><br/>
 
