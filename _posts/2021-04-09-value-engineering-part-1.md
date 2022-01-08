@@ -7,25 +7,16 @@ image: assets/images/8-1.jpg
 description: "6 reasons why Presales need to do Value Engineering"
 featured: true
 hidden: true
-toc: false
+toc: true
 comments: true
 ---
 ## The (Pre)sales nightmare
 
-It's Friday evening. You are in peace of mind despite the fact that your are the Presales on the biggest deal of the region. 
-Today you concluded a challenging 3 weeks Proof Of Value and validated the technical win with your prospect. The tests showed that your solution’s 
-performance smashes the competition and the business users love the user experience. You still have 3 full weeks to get the paperwork done and close the deal 
-before the end of the quarter.
- 
-But, before calling it a day, your prospect sends you a quick, killer, email to let you know that they won’t be able to sign the deal this quarter. 
-Unfortunately, the CFO doesn’t understand why they should spend this money on yet another SaaS solution especially in these interesting times.
+It's Friday evening. You are in peace of mind yet your are working on the biggest deal of the region. Today you concluded a long POV and validated the technical win. But, your prospect sends you a quick, killer, email to inform you that they won't be able to sign the deal. Their CFO doesn't understand why they should spend this money on yet another solution.
 
-Wait, what, …, what about the pains we talked about? And the compliance risks with the new law applicable next month? You rewind the last 2 months of discussions 
-in your head to see what did you miss in the process. What did you forget to validate? Most importantly, what can save your deal? 
+Wait, what, .. What about the pains we talked about? And the compliance risks with the new upcoming law? You rewind the last 2 months of discussions in your head to see what did you miss in the process. Most importantly, what can save your deal?
 
-Value Engineering!
-
-## What is value engineering?
+## Value Engineering?
 
 In a nutshell, Value Engineering (aka value management or value consulting) is a set of tools, processes and sometimes people that you leverage in your 
 sales motion to shift the discussions from the technical aspects to the value of a solution. It's an analysis that helps you build an executive readout to 
