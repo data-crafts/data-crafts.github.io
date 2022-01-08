@@ -5,8 +5,8 @@ author: abdelkrim
 categories: [ Streaming, Event Driven, Use case, Flink, SQL ]
 image: assets/images/1-1.jpg
 description: "How Open Source Streaming technologies can help improve supply chain during Covid-19"
-featured: true
-hidden: true
+featured: false
+hidden: false
 toc: true
 comments: true
 ---
