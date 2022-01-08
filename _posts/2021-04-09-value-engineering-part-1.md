@@ -7,7 +7,7 @@ image: assets/images/8-1.jpg
 description: "6 reasons why Presales need to do Value Engineering"
 featured: true
 hidden: true
-toc: true
+toc: false
 comments: true
 ---
 ## The (Pre)sales nightmare
