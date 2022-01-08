@@ -7,7 +7,7 @@ image: assets/images/9-1.jpg
 description: "Two Value Engineering tools any Presales can build"
 featured: true
 hidden: true
-toc: true
+toc: false
 comments: true
 ---
 
@@ -62,7 +62,7 @@ Keeping these PBOs in mind, we drew three scenarios (optimistic, realistic and c
 
 ![photo]({{site.baseurl}}/assets/images/9-3.png)
 
-What’s next?
+## What’s next? ##
 
 For advanced sales opportunities, Value Engineering can help build advanced models or simulations that may require involving a dedicated Value Engineer. But for the majority of use cases, simple math and some excel skills can take your deal to the next level. In this blog we reviewed two examples of Value Engineering tools. The objective was to make the discussion more concrete, not to write a value engineering manual. I purposely focused on easy tools that any Presales can build. In the next blog, I will share some best practices I believe are important to follow to make these tools more impactful.
 
