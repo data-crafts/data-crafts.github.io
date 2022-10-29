@@ -20,7 +20,7 @@ When you start in your Value Engineering journey, it is easy to fall into the tr
 
 The value pyramid is a great framework to focus on your customer’s strategic value. It is a mental model that shifts the discussions from solutions and product features up to the Corporate and Business Objectives.  It is safe to consider that every customer you're working with are focused on one of the three strategic goals: increase revenue, reduce costs or reduce risks. Your value analysis should start with one of these drivers and break it down to a level where you can **map and measure the impact** of your solution. More on the measure later.
 
-![photo]({{site.baseurl}}/assets/images/9-2.png)
+![photo]({{site.baseurl}}/assets/images/10-2.png)
 
 Let’s take the following example. You are selling a fast analytics platform to a bank. What you are the most excited about is how your solution will improve the customer experience through better product recommendations. However, you know that your prospect’s strategic objective that drives this initiative is cost reduction. Here, you should focus on cost reduction. A good example of this is how your solution can reduce the time it takes a fraud analyst to decide if they should block or release a suspect transaction and how this translates into cost reduction for the fraud department.
 
