@@ -5,8 +5,8 @@ author: abdelkrim
 categories: [ Value Engineering, Presales, Management, Process ]
 image: assets/images/9-1.jpg
 description: "Two Value Engineering tools any Presales can build"
-featured: true
-hidden: true
+featured: false
+hidden: false
 toc: false
 comments: true
 ---
