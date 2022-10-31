@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Seven best practices for Presales staring in Value Engineering"
+title:  "Seven best practices for Presales starting in Value Engineering"
 author: abdelkrim
 categories: [ Value Engineering, Presales, Management, Process ]
 image: assets/images/10-1.jpg
-description: "Seven best practices for Presales staring in Value Engineering"
+description: "Seven best practices for Presales starting in Value Engineering"
 featured: true
 hidden: true
 toc: false
