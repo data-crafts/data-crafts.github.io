@@ -28,7 +28,7 @@ Let’s take the following example. You are selling a fast analytics platform to
 
 The purpose of value engineering is to justify why a customer should give you their money and what they will get out of it. The most elegant VE tools are the simplest ones. They have the advantage of being easy to build and easy to understand. A common trap is to build an advanced economical modelisation of their business that only a PhD in economics can understand. By venturing into a complex model, you will need more inputs, take more assumptions and increase the risk of shooting yourself in the foot.
 
-Let’s go back to our previous fraud analysis example. You may be tempted to measure how your solution can process unstructuredw and high cardinality data and reduce the rate of false positives and false negatives. This will definitely lead to a better cost reduction. However, this will make the study much more complex. The stakeholders won’t trust the results if they do not understand the details. 
+Let’s go back to our previous fraud analysis example. You may be tempted to measure how your solution can process unstructured and high cardinality data and reduce the rate of false positives and false negatives. This will definitely lead to a better cost reduction. However, this will make the study much more complex. The stakeholders won’t trust the results if they do not understand the details. 
 
 ### 3) Get your champion involved
 
