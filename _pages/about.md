@@ -9,13 +9,13 @@ comments: false
 <div class="col-md-10 pr-5">
 
 <p>
-Abdelkrim Hadjidj is a Solutions Engineering Manager at Grafana Labs with over a decade of experience on distributed and data intensive systems. He helps customers in EMEA define their observability strategy with Grafana Labs producs to reduce MTTR, lower costs and improve customers experience. He is an Open Source advocate and works with OSS technologies such as Grafana, Prometheus, Loki and Tempo. <br/><br/>
-  
-He is also pationate about management techniques and how to reveal the best in people. He advocates for craftmanship as a path to success and excellence in the digital and the physical jobs. <br/><br/>
+Abdelkrim Hadjidj is a seasoned Solutions Engineering Manager at Grafana Labs, boasting over a decade of expertise in distributed and data-intensive systems. With a deep understanding of the challenges faced by organizations in the EMEA region, he collaborates closely with customers to shape their observability strategy using Grafana Labs products, thereby enhancing reliability, developer experience, and customer satisfaction.  <br/><br/>
 
-Previously, Abdelkrim held several Solutions Engineer positions at Grafana Labs, Hortonworks, Cloudera and Imply. Before that, he was a Big Data Lead at Atos and CTO at Artheamis. In the course of those roles, he designed and built several scalable data-intensive platforms for customers in Financial Services, Manufacuturing, Retail and Transportation. These platforms are the foundation of digital transformation and enabled use cases such as customer 360°, predictive maintenance and real-time analytics. <br/><br/>
+An ardent advocate of Open Source, Abdelkrim actively engages with OSS technologies, including Grafana, Prometheus, Loki, and Tempo, harnessing their power to drive innovation and empower businesses. <br/><br/>
 
-Opinions expressed are solely my own and do not express the views or opinions of my employer.<br/><br/>
+Beyond his technical proficiency, Abdelkrim possesses a profound passion for effective management techniques and unleashing the full potential of individuals. He firmly believes in the transformative power of Craftsmanship as a pathway to success and excellence, both in digital and physical realms of work. <br/><br/>
+
+Throughout his career, Abdelkrim has held various pivotal roles, including Solutions Engineer positions at renowned organizations such as Grafana Labs, Hortonworks, Cloudera, and Imply. Prior to that, he served as a Big Data Lead at Atos and Chief Technology Officer at Artheamis. In these influential capacities, he spearheaded the design and construction of scalable, data-intensive platforms that underpin his clients' digital transformation journeys. By enabling critical use cases such as customer 360°, predictive maintenance, and real-time analytics, these platforms have laid the foundation for innovation and success across diverse industries, including Financial Services, Manufacturing, Retail, and Transportation. <br/><br/>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/ff.jpg" /></p>
 </p>
